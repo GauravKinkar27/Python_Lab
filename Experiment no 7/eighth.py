@@ -1,0 +1,13 @@
+numbers = [5, 2, 8, 1, 9, 3, 7, 4, 6]
+print(f"List: {numbers}")
+print(f"Length: {len(numbers)}")
+print(f"Maximum: {max(numbers)}")
+print(f"Minimum: {min(numbers)}")
+print(f"Sum: {sum(numbers)}")
+print(f"Sorted ascending: {sorted(numbers)}")
+print(f"Sorted descending: {sorted(numbers, reverse=True)}")
+print(f"Absolute of -10: {abs(-10)}")
+print(f"Power 2^5: {pow(2, 5)}")
+print(f"Round 3.14159 to 2 decimals: {round(3.14159, 2)}")
+print(f"Type of 10: {type(10)}")
+print(f"Type of 'Hello': {type('Hello')}")

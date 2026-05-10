@@ -1,0 +1,5 @@
+my_tuple = tuple(map(int, input("Enter numbers separated by space: ").split()))
+element = int(input("Enter element to count: "))
+count = my_tuple.count(element)
+print(f"Tuple: {my_tuple}")
+print(f"Element {element} appears {count} time(s)")

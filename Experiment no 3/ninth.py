@@ -1,0 +1,6 @@
+s = input("Enter a sentence: ")
+words = s.split()
+print(f"Splitted words: {words}")
+delimiter = input("Enter delimiter for joining: ")
+joined = delimiter.join(words)
+print(f"Joined string: {joined}")

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "User_6",
+    "wpm": 31,
+    "accuracy": 63.75,
+    "date": "2026-04-28 16:19:45",
+    "difficulty": "Medium",
+    "time_setting": 30
+  },
+  {
+    "name": "User_5",
+    "wpm": 30,
+    "accuracy": 25.97,
+    "date": "2026-04-28 16:10:35",
+    "difficulty": "Medium",
+    "time_setting": 30
+  },
+  {
+    "name": "User_3",
+    "wpm": 25,
+    "accuracy": 79.22,
+    "date": "2026-04-28 16:03:08",
+    "difficulty": "Medium",
+    "time_setting": 30
+  },
+  {
+    "name": "User_2",
+    "wpm": 16,
+    "accuracy": 100.0,
+    "date": "2026-04-27 15:00:43",
+    "difficulty": "Medium",
+    "time_setting": 60
+  },
+  {
+    "name": "User_4",
+    "wpm": 14,
+    "accuracy": 84.29,
+    "date": "2026-04-28 16:06:25",
+    "difficulty": "Medium",
+    "time_setting": 60
+  },
+  {
+    "name": "User_1",
+    "wpm": 13,
+    "accuracy": 98.57,
+    "date": "2026-04-27 14:59:30",
+    "difficulty": "Medium",
+    "time_setting": 60
+  }
+]
